@@ -1,0 +1,28 @@
+{
+  "name": "random-msj2",
+  "version": "1.0.1",
+  "description": "Random de mensajes",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "javascript",
+    "node",
+    "npm"
+  ],
+  "author": "Tello Benitez <altacomca@gmail.com>",
+  "license": "MIT",
+  "bin": {
+    "random-msg": "bin/global.js"
+  },
+  "preferGlobal": true,
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Altacomca/random-msg.git"
+  },
+  "bugs": {
+    "url": "https://github.com/Altacomca/random-msg/issues"
+  },
+  "homepage": "https://github.com/Altacomca/random-msg#readme"
+}
